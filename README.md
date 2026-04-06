@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Umid;Welcome+to+my+GitHub+profile;Backend+Developer+in+progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Umid...;Welcome+to+my+GitHub+profile...;Backend+Developer+in+progress..." alt="Typing SVG" />
 </p>
 
-# Hi, I'm Umid 👋
+# Hi, I'm Umid
 
 I'm a backend developer focused on building real projects and improving step by step.
 
@@ -13,19 +13,12 @@ I'm a backend developer focused on building real projects and improving step by 
 - Focused on writing clean and understandable code
 
 
-## Tech I'm learning
-- Java
-- Spring Boot
-- PostgreSQL
-- Docker
-- Django
-- ASP.NET Core
-- Git/GitHub
+## Technologies I Know / Learn
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,py,django,dotnet,postgres,docker,git,github,react,html,css,js" />
+</p>
 
-
-## GitHub Stats
-![Umid's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmidHajiyev&show_icons=true)
 
 ## Contact
 - GitHub: [UmidHajiyev](https://github.com/UmidHajiyev)
