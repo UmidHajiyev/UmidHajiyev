@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Umid...;Welcome+to+my+GitHub+profile...;Backend+Developer+in+progress..." alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-
-# Hi, I'm Umid
+#
 
 Hi, I'm Umid — a University of Exeter graduate with a strong interest in backend development, clean code, and real-world software projects.
 
