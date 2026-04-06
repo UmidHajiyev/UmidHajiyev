@@ -7,7 +7,7 @@
 Hi, I'm Umid — a University of Exeter graduate with a strong interest in backend development, clean code, and real-world software projects.
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR6MnY1MWE1dGdneGg5YWY0MTM4OHZ4MTB2b2JoZzd2ZHI4ZmMzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lSsOXm0Uz9sOGJFazp/giphy.gif" width="180" alt="University of Exeter GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwZzc0b29zNXNkM2JreThnczhjdjltNDlnb283cGpxdGo3MXZxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SxGUGHgaNjub6pLuVG/giphy.gif" width="400" alt="University of Exeter GIF" />
 </p>
 ## About me
 - Interested in Backend Development
